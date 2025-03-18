@@ -115,7 +115,3 @@ pip install requests
 - **Error: `TypeError: unsupported operand type(s)`**  
   🟢 **ដំណោះស្រាយ**: ពិនិត្យប្រភេទទិន្នន័យមុនពេលគណនា  
 
----
-
-✅ **សូមអបអរសាទរ!** អ្នកបានចាប់ផ្ដើមអាជីព Python របស់អ្នក! 🎉  
-តើអ្នកចង់ឲ្យបន្ថែមអ្វីក្នុង README.md? 😃
